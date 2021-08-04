@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "questionsv5s",
+  "info": {
+    "name": "questionsv5"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "body": {
+      "type": "string"
+    }
+  }
+}
